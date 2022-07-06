@@ -1,4 +1,4 @@
-# mongo-java-examples
+# mongodb-java-examples
 This repository contains examples that demonstrate usage of [MongoDB Java Driver](https://mongodb.github.io/mongo-java-driver/) with MongoDB database.
 
 ## Examples Description:
